@@ -1,0 +1,7 @@
+[package]
+org = "irushi"
+name = "arg_parsing_library"
+version = "0.1.0"
+
+[build-options]
+observabilityIncluded = true
